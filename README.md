@@ -2,6 +2,7 @@
 
 [Page](https://jakubpietraszko.github.io/)
 
+[Gists](https://gist.github.com/jakubpietraszko)
 <!--
 **jakubpietraszko/jakubpietraszko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
