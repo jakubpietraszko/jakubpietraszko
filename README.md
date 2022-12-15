@@ -4,7 +4,7 @@
 
 [Gists](https://gist.github.com/jakubpietraszko)
 
-[Przykładowy Fork]([https://github.com/jakubpietraszko/neovim](https://github.com/jakubpietraszko/unilm))
+[Przykładowy Fork](https://github.com/jakubpietraszko/unilm)
 
 [Link do artykułu](https://paperswithcode.com/paper/layoutlmv3-pre-training-for-document-ai-with)
 <!--
