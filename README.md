@@ -3,6 +3,8 @@
 [Page](https://jakubpietraszko.github.io/)
 
 [Gists](https://gist.github.com/jakubpietraszko)
+
+[Przykładowy Fork](https://github.com/jakubpietraszko/neovim)
 <!--
 **jakubpietraszko/jakubpietraszko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
